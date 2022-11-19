@@ -23,7 +23,7 @@ Run:
 
 ```bash
 chmod +x script.sh
-sudo mv script.sh /usr/bin/convert-images
+sudo cp -f script.sh /usr/bin/convert-images
 ```
 
 Answer the questions (When choosing the tool, use the arrows keys to navigate, the spacebar to select and enter to finish)
